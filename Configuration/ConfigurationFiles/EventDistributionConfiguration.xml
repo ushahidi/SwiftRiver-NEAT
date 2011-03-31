@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<configuration><eventHandlers><handler name="Tag Clustering" className="\Swiftriver\EventHandlers\TagClusteringEventHandler" filePath="/TagClusteringReactorTurbine/TagClusteringEventHandler.php"/><handler name="Ushahidi Content Push" className="\Swiftriver\EventHandlers\UshahidiContentPushEventHandler" filePath="/UshahidiContentPush/UshahidiContentPushEventHandler.php"/></eventHandlers></configuration>
